@@ -8,6 +8,8 @@ import lombok.NoArgsConstructor;
 
 import java.util.Set;
 
+// This is the Data Transfer Object for Movie API
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
